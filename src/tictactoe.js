@@ -25,7 +25,6 @@ export function Tictactoe() {
       player === 'X' ? setPlayer('O') : setPlayer('X')
 
       setCells(obj)
-      
     }
   }
 
